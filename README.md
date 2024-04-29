@@ -21,8 +21,8 @@ Feel free to explore my repositories to see more of my work!
 ## Skills
 
 - **Languages**: Python, Javascript, Java, C, SQL, noSQL
-- **Technologies/Frameworks**: React, Nodejs, Express, Django, GIT, MySQL, PostgreSQL, Mongodb, Docker
-- **Tools**: [Tools]
+- **Technologies/Frameworks**: React, Nodejs, Express, Django, MySQL, PostgreSQL, Mongodb
+- **Tools**: Docker, GIT
 
 ## Get in Touch
 
