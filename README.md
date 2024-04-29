@@ -28,8 +28,6 @@ Feel free to explore my repositories to see more of my work!
 
 - 📧 Email: e.anyaegbunam@outlook.com, chukwuemekamusic@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/joseph-anyaegbunam-b1a430253/
-// - 🌐 Website/Blog: [Your Website/Blog]
-// - 🐦 Twitter: [Your Twitter]
 
 Let's connect and collaborate on exciting projects together!
 
