@@ -18,7 +18,7 @@ Here are some highlights of my projects:
 - Developed a student engagement web application using ReactJS and Django.
 - Designed and implemented RESTful APIs with [Django Rest Framework](https://github.com/Chukwuemekamusic/DiscussU).
 - Implemented Zustand for state management and applied best UI/UX principles.
-- This was my MSc project that allows students view, create, join discussion rooms, follow other students within an institution.
+- This project that allows students view, create, join discussion rooms, follow other students within an institution.
 
 ### [Money Saver App](https://github.com/Chukwuemekamusic/money-saver-app)
 
