@@ -1,6 +1,8 @@
 # Hello, I'm Joseph! 👋
 
-Welcome to my GitHub profile! I'm a very passionate software developer with a keen interest in building innovative and impactful solutions. I am looking for opportunities to keep solving real life issues with my skill and grow as a developer. I'm driven by a desire to leverage my skills and expertise to create meaningful solutions that positively impact people's lives.
+Welcome to my GitHub profile! 
+I'm a very passionate software developer with a keen interest in building innovative and impactful solutions. I excel in designing and delivering high-quality software solutions that meet clients' needs. I have a keen eye for detail and a disciplined approach to coding and debugging.
+
 
 ## About Me
 
@@ -11,12 +13,23 @@ Welcome to my GitHub profile! I'm a very passionate software developer with a ke
 ## Projects
 
 Here are some highlights of my projects:
+### [DiscussU Frontend](https://github.com/Chukwuemekamusic/DiscussU-react_frontend)
 
-- [DiscussU frontend](https://github.com/Chukwuemekamusic/DiscussU-react_frontend): It is the frontend of a student engagement web application I built with ReactJS. It interacts with the backend API I also built using [Django Rest Framework](https://github.com/Chukwuemekamusic/DiscussU). This was my MSc project that allows students view, create, join discussion rooms, follow other students within an institution.
-- [Money Saver App](https://github.com/Chukwuemekamusic/money-saver-app): This app allows logged in users to create a saving plan and goal, with a weekly payment plan that adds up to the goal set for the plan. It also goes ahead to give a detailed saving summary and progress goal bar.
-- [CLI Airline Booking System](https://github.com/Chukwuemekamusic/XYZ_AIRLINE_BOOKING): This is a command line simulation of a booking system of an airline using Python with Object-Oriented Programming to encapsulated the major codes. 
+- Developed a student engagement web application using ReactJS and Django.
+- Designed and implemented RESTful APIs with [Django Rest Framework](https://github.com/Chukwuemekamusic/DiscussU).
+- Implemented Zustand for state management and applied best UI/UX principles.
+- This was my MSc project that allows students view, create, join discussion rooms, follow other students within an institution.
 
-Feel free to explore my repositories to see more of my work!
+### [Money Saver App](https://github.com/Chukwuemekamusic/money-saver-app)
+
+- Built an app for creating saving plans and goals with weekly payment plans.
+- Utilized React for the frontend and integrated Django for the [backend](https://github.com/Chukwuemekamusic/backend-money-saver-app).
+- Implemented Redux for state management and tailwind for design.
+
+### [CLI Airline Booking System](https://github.com/Chukwuemekamusic/XYZ_AIRLINE_BOOKING)
+
+- Developed a command-line simulation of an airline booking system using Python.
+- Utilized Object-Oriented Programming principles for code encapsulation.
 
 ## Skills
 
