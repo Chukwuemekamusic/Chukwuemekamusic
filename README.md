@@ -13,6 +13,13 @@ I'm a very passionate software developer with a keen interest in building innova
 ## Projects
 
 Here are some highlights of my projects:
+### [Money Saver App](https://github.com/Chukwuemekamusic/money-saver-app)
+
+- Built an app for creating saving plans and goals with weekly payment plans.
+- Utilized React for the frontend and integrated Django for the [backend](https://github.com/Chukwuemekamusic/backend-money-saver-app).
+- Implemented Redux for state management and tailwind for design.
+
+
 ### [DiscussU Frontend](https://github.com/Chukwuemekamusic/DiscussU-react_frontend)
 
 - Developed a student engagement web application using ReactJS and Django.
@@ -20,11 +27,6 @@ Here are some highlights of my projects:
 - Implemented Zustand for state management and applied best UI/UX principles.
 - This project that allows students view, create, join discussion rooms, follow other students within an institution.
 
-### [Money Saver App](https://github.com/Chukwuemekamusic/money-saver-app)
-
-- Built an app for creating saving plans and goals with weekly payment plans.
-- Utilized React for the frontend and integrated Django for the [backend](https://github.com/Chukwuemekamusic/backend-money-saver-app).
-- Implemented Redux for state management and tailwind for design.
 
 ### [CLI Airline Booking System](https://github.com/Chukwuemekamusic/XYZ_AIRLINE_BOOKING)
 
