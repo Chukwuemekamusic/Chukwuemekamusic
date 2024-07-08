@@ -8,11 +8,15 @@ I'm a very passionate software developer with a keen interest in building innova
 
 - 🎓 I recently graduated with a Masters degree in IT from Robert Gordon University.
 - 💻 I specialize in tackling coding algorithm challenges and FullStack software development, with expertise in Python, React, Nodejs, Django, SQL, noSQL, Tailwind...
-- 🌱 I'm currently exploring building more project with the MERN stack, and have an interest in Machine Learning and AI with Python.
+- 🌱 I'm currently exploring Machine Learning and AI with Python.
 
 ## Projects
 
 Here are some highlights of my projects:
+### [Tic-Tac-Toe AI Game](https://github.com/Chukwuemekamusic/tictactoe_AI)
+This project showcases a Tic-Tac-Toe game implementation with an AI opponent using the minimax algorithm. Built with Python and Pygame, it features a graphical user interface, allowing players to compete against an intelligent computer player or another human. The AI utilizes the minimax algorithm to make optimal moves, providing a challenging gameplay experience.
+
+
 ### [Money Saver App](https://github.com/Chukwuemekamusic/money-saver-app)
 
 - Built an app for creating saving plans and goals with weekly payment plans.
