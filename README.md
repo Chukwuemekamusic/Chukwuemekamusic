@@ -14,7 +14,10 @@ I'm a very passionate software developer with a keen interest in building innova
 
 Here are some highlights of my projects:
 ### [Tic-Tac-Toe AI Game](https://github.com/Chukwuemekamusic/tictactoe_AI)
-This project showcases a Tic-Tac-Toe game implementation with an AI opponent using the minimax algorithm. Built with Python and Pygame, it features a graphical user interface, allowing players to compete against an intelligent computer player or another human. The AI utilizes the minimax algorithm to make optimal moves, providing a challenging gameplay experience.
+- Tic-Tac-Toe game with AI using the minimax algorithm
+- Built with Python and Pygame, featuring a graphical interface
+- Play against an intelligent computer or another human
+- AI makes optimal moves for a challenging experience
 
 
 ### [Money Saver App](https://github.com/Chukwuemekamusic/money-saver-app)
