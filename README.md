@@ -14,16 +14,17 @@ I'm a very passionate software developer with a keen interest in building innova
 
 Here are some highlights of my projects:
 ### [Tic-Tac-Toe AI Game](https://github.com/Chukwuemekamusic/tictactoe_AI)
-- Tic-Tac-Toe game with AI using the minimax algorithm
-- Built with Python and Pygame, featuring a graphical interface
-- Play against an intelligent computer or another human
-- AI makes optimal moves for a challenging experience
+- Tic-Tac-Toe game with AI using the minimax algorithm.
+- Built with Python and Pygame, featuring a graphical interface.
+- Play against an intelligent computer or another human.
+- AI makes optimal moves for a challenging experience.
 
 
 ### [Money Saver App](https://github.com/Chukwuemekamusic/money-saver-app)
 
 - Built an app for creating saving plans and goals with weekly payment plans.
 - Utilized React for the frontend and integrated Django for the [backend](https://github.com/Chukwuemekamusic/backend-money-saver-app).
+- Integrated Google Sign-In authentication and email verification to ensure secure and verified user access.
 - Implemented Redux for state management and tailwind for design.
 
 
