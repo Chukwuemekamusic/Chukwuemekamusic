@@ -44,8 +44,8 @@ Here are some highlights of my projects:
 
 ## Skills
 
-- **Languages**: Python, Javascript, Java, C, SQL, noSQL
-- **Technologies/Frameworks**: React, Nodejs, Express, Django, MySQL, PostgreSQL, Mongodb
+- **Languages**: Python, Javascript, Java, C, Solidity, SQL, noSQL
+- **Technologies/Frameworks**: React, Nodejs, Express, Django, MySQL, PostgreSQL, Mongodb, Hardhat
 - **Tools**: Docker, GIT
 
 ## Get in Touch
