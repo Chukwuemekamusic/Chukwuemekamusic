@@ -8,7 +8,8 @@ I'm a very passionate software developer with a keen interest in building innova
 
 - 🎓 I recently graduated with a Masters degree in IT from Robert Gordon University.
 - 💻 I specialize in tackling coding algorithm challenges and FullStack software development, with expertise in Python, React, Nodejs, Django, SQL, noSQL, Tailwind...
-- 🌱 I'm currently exploring Machine Learning and AI with Python.
+- 🌱 I'm currently exploring Blockchain and Smart Contract.
+- 🌱 I'm also exploring Machine Learning and AI with Python.
 
 ## Projects
 
