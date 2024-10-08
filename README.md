@@ -16,6 +16,15 @@ I'm a passionate full-stack software developer with a keen interest in blockchai
 ## Projects
 
 Here are some highlights of my projects:
+### [Crowdfunding Dapp](https://github.com/Chukwuemekamusic/crowdfunding_dapp)
+
+- Developing a decentralized application for creating and participating in crowdfunding campaigns.
+- Building smart [contracts](https://github.com/Chukwuemekamusic/crowdfunding_dapp/blob/master/my_web3/contracts/CrowdFunding.sol) with Solidity and Hardhat for secure, transparent fund management.
+- Crafting a responsive frontend using React and Vite, styled with Tailwind CSS for a modern UI.
+- Integrating Web3.js and ethers.js for seamless blockchain interactions via MetaMask.
+- Implementing features like campaign creation, donation, and real-time fund tracking.
+
+
 ### [Tic-Tac-Toe AI Game](https://github.com/Chukwuemekamusic/tictactoe_AI)
 - Tic-Tac-Toe game with AI using the minimax algorithm.
 - Built with Python and Pygame, featuring a graphical interface.
