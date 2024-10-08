@@ -1,15 +1,17 @@
 # Hello, I'm Joseph! 👋
 
 Welcome to my GitHub profile! 
-I'm a very passionate software developer with a keen interest in building innovative and impactful solutions. I excel in designing and delivering high-quality software solutions that meet clients' needs. I have a keen eye for detail and a disciplined approach to coding and debugging.
-
+I'm a passionate full-stack software developer with a keen interest in blockchain technology and building innovative solutions. I excel in designing and delivering high-quality software that meets clients' needs across various domains. With a keen eye for detail and a disciplined approach to coding and debugging, I'm always eager to tackle new challenges in the tech world.
 
 ## About Me
 
-- 🎓 I recently graduated with a Masters degree in IT from Robert Gordon University.
-- 💻 I specialize in tackling coding algorithm challenges and FullStack software development, with expertise in Python, React, Nodejs, Django, SQL, noSQL, Tailwind...
-- 🌱 I'm currently exploring Blockchain and Smart Contract.
-- 🌱 I'm also exploring Machine Learning and AI with Python.
+- 🎓 I hold a Masters degree in IT from Robert Gordon University.
+- 💻 I specialize in full-stack development, with expertise in Python, React, Node.js, Django, SQL, NoSQL, and Tailwind CSS.
+- ⛓️ Actively exploring and working with blockchain technologies, including Solidity and smart contracts.
+- 🌱 Currently deepening my knowledge in blockchain development and decentralized applications (DApps).
+- 🤖 Also interested in machine learning and AI, particularly their applications in software development.
+- 🔧 Experienced in tackling coding algorithm challenges and delivering robust software solutions.
+- 🌐 Open to diverse developer roles while particularly excited about opportunities in blockchain projects.
 
 ## Projects
 
@@ -45,8 +47,8 @@ Here are some highlights of my projects:
 ## Skills
 
 - **Languages**: Python, Javascript, Java, C, Solidity, SQL, noSQL
-- **Technologies/Frameworks**: React, Nodejs, Express, Django, MySQL, PostgreSQL, Mongodb, Hardhat
-- **Tools**: Docker, GIT
+- **Technologies/Frameworks**: React, Nodejs, Express, Django, MySQL, PostgreSQL, Mongodb, Hardhat, web3.js, ethers.js
+- **Tools**: Docker, GIT, MetaMask
 
 ## Get in Touch
 
