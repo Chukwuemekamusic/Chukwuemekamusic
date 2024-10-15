@@ -40,7 +40,7 @@ Here are some highlights of my projects:
 - Implemented Redux for state management and tailwind for design.
 
 
-### [DiscussU Frontend](https://github.com/Chukwuemekamusic/DiscussU-react_frontend)
+### [MSc. Project: DiscussU](https://github.com/Chukwuemekamusic/DiscussU-react_frontend)
 
 - Developed a student engagement web application using ReactJS and Django.
 - Designed and implemented RESTful APIs with [Django Rest Framework](https://github.com/Chukwuemekamusic/DiscussU).
