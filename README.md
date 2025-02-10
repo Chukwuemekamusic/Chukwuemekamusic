@@ -16,13 +16,30 @@ I'm a passionate full-stack software developer with a keen interest in blockchai
 ## Projects
 
 Here are some highlights of my projects:
-### [Crowdfunding Dapp](https://github.com/Chukwuemekamusic/crowdfunding_dapp)
+### [Decentralized Crowdfunding Platform](https://github.com/Chukwuemekamusic/my_crowdfunding/)
 
-- Developing a decentralized application for creating and participating in crowdfunding campaigns.
-- Building smart [contracts](https://github.com/Chukwuemekamusic/crowdfunding_dapp/blob/master/my_web3/contracts/CrowdFunding.sol) with Solidity and Hardhat for secure, transparent fund management.
-- Crafting a responsive frontend using React and Vite, styled with Tailwind CSS for a modern UI.
-- Integrating Web3.js and ethers.js for seamless blockchain interactions via MetaMask.
-- Implementing features like campaign creation, donation, and real-time fund tracking.
+- Built a Web3-enabled crowdfunding platform using Next.js, TypeScript, and Ethereum smart contracts
+- Implemented campaign creation system with multi-step form validation using React Hook Form and Zod
+- Developed [smart contract](https://github.com/Chukwuemekamusic/my_crowdfunding/blob/master/my_web3/contracts/CrowdFunding.sol) features for campaign management, flexible withdrawals, and donor tracking 
+- Created responsive UI components using Tailwind CSS and shadcn/ui for optimal user experience
+- Integrated IPFS (Pinata) for decentralized image storage and MetaMask for wallet connectivity
+
+**Key Features:**
+- Campaign creation with draft system and image upload
+- Flexible withdrawal options for campaign owners
+- Category-based filtering and search functionality 
+- Pagination for efficient data loading
+- Real-time campaign status updates
+- User dashboard for campaign management
+- Donor tracking and verification system
+
+### [Learning Management System (LMS)](https://github.com/Chukwuemekamusic/lms)
+
+- Built a comprehensive platform for managing online courses using TypeScript and Next.js.
+- Implemented user authentication and course creation systems with Prisma and PostgreSQL.
+- Designed responsive UI components using React and Tailwind CSS for optimal user experience.
+- Integrated Mux for seamless video content delivery and streaming capabilities.
+- Developed fullstack features for course management, progress tracking, and user engagement.
 
 
 ### [Tic-Tac-Toe AI Game](https://github.com/Chukwuemekamusic/tictactoe_AI)
