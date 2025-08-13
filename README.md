@@ -1,21 +1,30 @@
 # Hello, I'm Joseph! 👋
 
-Welcome to my GitHub profile! 
-I'm a passionate full-stack software developer with a keen interest in blockchain technology and building innovative solutions. I excel in designing and delivering high-quality software that meets clients' needs across various domains. With a keen eye for detail and a disciplined approach to coding and debugging, I'm always eager to tackle new challenges in the tech world.
+Welcome to my GitHub profile!
+I'm a passionate blockchain-focused software developer with a strong expertise in building decentralized applications and scalable full-stack platforms. I excel in smart contract architecture, gas optimization, and delivering secure, user-focused solutions that push the boundaries of Web3 innovation.
 
 ## About Me
 
-- 🎓 I hold a Masters degree in IT from Robert Gordon University.
-- 💻 I specialize in full-stack development, with expertise in Python, React, Node.js, Django, SQL, NoSQL, and Tailwind CSS.
-- ⛓️ Actively exploring and working with blockchain technologies, including Solidity and smart contracts.
-- 🌱 Currently deepening my knowledge in blockchain development and decentralized applications (DApps).
-- 🤖 Also interested in machine learning and AI, particularly their applications in software development.
-- 🔧 Experienced in tackling coding algorithm challenges and delivering robust software solutions.
-- 🌐 Open to diverse developer roles while particularly excited about opportunities in blockchain projects.
+- 🎓 MSc (Distinction) in Information Technology from Robert Gordon University
+⛓️ Blockchain Specialist: Proficient in Solidity, smart contracts, DApps, Foundry, Hardhat, and advanced patterns (ERC20/721/1155, proxy, diamond)
+💻 Full-Stack Developer: Expert in Python, JavaScript, TypeScript, React, Next.js, Django, FastAPI, and Node.js
+🤖 AI & Data Analytics: Experienced with LangChain, GenAI, pandas, NumPy, and machine learning libraries
+🌱 Currently working on cutting-edge blockchain projects and expanding Web3 expertise
+🔧 Strong background in algorithm challenges, system architecture, and scalable solutions
+🌐 Open to blockchain development opportunities and innovative Web3 projects
 
 ## Projects
 
 Here are some highlights of my projects:
+
+### [Smart Lottery Contract System](https://github.com/Chukwuemekamusic/smart-lottery.git)
+
+Decentralized, provably fair lottery system with verifiable randomness and automated draws
+Implemented Chainlink VRF v2.5 for cryptographically secure random winner selection
+Integrated Chainlink Automation for autonomous lottery draws based on time intervals
+Deployed and verified on Sepolia testnet with gas-optimized smart contracts
+
+
 ### [Decentralized Crowdfunding Platform](https://github.com/Chukwuemekamusic/my_crowdfunding/)
 
 - Built a Web3-enabled crowdfunding platform using Next.js, TypeScript, and Ethereum smart contracts
@@ -52,8 +61,8 @@ Here are some highlights of my projects:
 ### [Money Saver App](https://github.com/Chukwuemekamusic/money-saver-app)
 
 - Built an app for creating saving plans and goals with weekly payment plans.
-- Utilized React for the frontend and integrated Django for the [backend](https://github.com/Chukwuemekamusic/backend-money-saver-app).
-- Integrated Google Sign-In authentication and email verification to ensure secure and verified user access.
+- Utilized React for the frontend and integrated FastAPI for the [backend](https://github.com/Chukwuemekamusic/money-saver-api.git).
+- Integrated Supabase Auth with JWT tokens and Google OAuth.
 - Implemented Redux for state management and tailwind for design.
 
 
