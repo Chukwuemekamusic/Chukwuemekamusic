@@ -6,12 +6,12 @@ I'm a passionate blockchain-focused software developer with a strong expertise i
 ## About Me
 
 - 🎓 MSc (Distinction) in Information Technology from Robert Gordon University
-⛓️ Blockchain Specialist: Proficient in Solidity, smart contracts, DApps, Foundry, Hardhat, and advanced patterns (ERC20/721/1155, proxy, diamond)
-💻 Full-Stack Developer: Expert in Python, JavaScript, TypeScript, React, Next.js, Django, FastAPI, and Node.js
-🤖 AI & Data Analytics: Experienced with LangChain, GenAI, pandas, NumPy, and machine learning libraries
-🌱 Currently working on cutting-edge blockchain projects and expanding Web3 expertise
-🔧 Strong background in algorithm challenges, system architecture, and scalable solutions
-🌐 Open to blockchain development opportunities and innovative Web3 projects
+- ⛓️ Blockchain Specialist: Proficient in Solidity, smart contracts, DApps, Foundry, Hardhat, and advanced patterns (ERC20/721/1155, proxy, diamond)
+- 💻 Full-Stack Developer: Expert in Python, JavaScript, TypeScript, React, Next.js, Django, FastAPI, and Node.js
+- 🤖 AI & Data Analytics: Experienced with LangChain, GenAI, pandas, NumPy, and machine learning libraries
+- 🌱 Currently working on cutting-edge blockchain projects and expanding Web3 expertise
+- 🔧 Strong background in algorithm challenges, system architecture, and scalable solutions
+- 🌐 Open to blockchain development opportunities and innovative Web3 projects
 
 ## Projects
 
