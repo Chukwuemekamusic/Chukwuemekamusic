@@ -87,7 +87,7 @@ Deployed and verified on Sepolia testnet with gas-optimized smart contracts
 
 ## Get in Touch
 
-- 📧 Email: e.anyaegbunam@outlook.com, chukwuemekamusic@gmail.com
+- 📧 Email: joseph.emeka.dev@gmail.com, chukwuemekamusic@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/joseph-anyaegbunam-b1a430253/
 
 Let's connect and collaborate on exciting projects together!
