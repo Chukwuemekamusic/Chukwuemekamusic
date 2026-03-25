@@ -1,94 +1,73 @@
-# Hello, I'm Joseph! 👋
+# Hi, I'm Joseph 👋
 
-Welcome to my GitHub profile!
-I'm a passionate blockchain-focused software developer with a strong expertise in building decentralized applications and scalable full-stack platforms. I excel in smart contract architecture, gas optimization, and delivering secure, user-focused solutions that push the boundaries of Web3 innovation.
+I'm a **Python backend engineer** and **blockchain developer** based in Aberdeen, UK — with an MSc (Distinction) in Information Technology and a background in Electrical Engineering.
 
-## About Me
+I build production-grade backend systems and smart contract protocols. My focus is on async architectures, distributed processing, and DeFi — writing code that's reliable under load, not just working in development.
 
-- 🎓 MSc (Distinction) in Information Technology from Robert Gordon University
-- ⛓️ Blockchain Specialist: Proficient in Solidity, smart contracts, DApps, Foundry, Hardhat, and advanced patterns (ERC20/721/1155, proxy, diamond)
-- 💻 Full-Stack Developer: Expert in Python, JavaScript, TypeScript, React, Next.js, Django, FastAPI, and Node.js
-- 🤖 AI & Data Analytics: Experienced with LangChain, GenAI, pandas, NumPy, and machine learning libraries
-- 🌱 Currently working on cutting-edge blockchain projects and expanding Web3 expertise
-- 🔧 Strong background in algorithm challenges, system architecture, and scalable solutions
-- 🌐 Open to blockchain development opportunities and innovative Web3 projects
+---
 
-## Projects
+## 🛠 What I Work With
 
-Here are some highlights of my projects:
+**Python & Backend**
+`FastAPI` `Celery` `SQLAlchemy (async)` `PostgreSQL` `Redis` `Docker` `Pydantic` `pytest`
 
-### [Smart Lottery Contract System](https://github.com/Chukwuemekamusic/smart-lottery.git)
+**Blockchain**
+`Solidity` `Foundry` `DeFi Protocols` `EIP-2535 (Diamond)` `UUPS` `Account Abstraction` `Viem` `Ethers.js`
 
-Decentralized, provably fair lottery system with verifiable randomness and automated draws
-Implemented Chainlink VRF v2.5 for cryptographically secure random winner selection
-Integrated Chainlink Automation for autonomous lottery draws based on time intervals
-Deployed and verified on Sepolia testnet with gas-optimized smart contracts
+**Frontend & Full-Stack**
+`React` `Next.js` `TypeScript` `Node.js` `Django`
 
+**Data & AI**
+`pandas` `NumPy` `Matplotlib` `Scikit-learn` `LangChain`
 
-### [Decentralized Crowdfunding Platform](https://github.com/Chukwuemekamusic/my_crowdfunding/)
+---
 
-- Built a Web3-enabled crowdfunding platform using Next.js, TypeScript, and Ethereum smart contracts
-- Implemented campaign creation system with multi-step form validation using React Hook Form and Zod
-- Developed [smart contract](https://github.com/Chukwuemekamusic/my_crowdfunding/blob/master/my_web3/contracts/CrowdFunding.sol) features for campaign management, flexible withdrawals, and donor tracking 
-- Created responsive UI components using Tailwind CSS and shadcn/ui for optimal user experience
-- Integrated IPFS (Pinata) for decentralized image storage and MetaMask for wallet connectivity
+## 🚀 Selected Projects
 
-**Key Features:**
-- Campaign creation with draft system and image upload
-- Flexible withdrawal options for campaign owners
-- Category-based filtering and search functionality 
-- Pagination for efficient data loading
-- Real-time campaign status updates
-- User dashboard for campaign management
-- Donor tracking and verification system
+### [ReportFlow — Async Report Generation API](https://github.com/Chukwuemekamusic/reportflow)
+> Python · FastAPI · Celery · Redis · PostgreSQL · MinIO · WebSocket · Docker
 
-### [Learning Management System (LMS)](https://github.com/Chukwuemekamusic/lms)
+API-first backend service that decouples heavy report generation from the HTTP request lifecycle using an async Celery job queue. Multi-tenant, fully containerised, production-architecture focus.
 
-- Built a comprehensive platform for managing online courses using TypeScript and Next.js.
-- Implemented user authentication and course creation systems with Prisma and PostgreSQL.
-- Designed responsive UI components using React and Tailwind CSS for optimal user experience.
-- Integrated Mux for seamless video content delivery and streaming capabilities.
-- Developed fullstack features for course management, progress tracking, and user engagement.
+- Three-queue Celery pipeline (high / default / low priority) with custom base task class and granular progress tracking
+- Real-time WebSocket progress streaming via Redis pub/sub
+- Three report types: Sales Summary PDF, CSV Export, multi-section PDF with Matplotlib charts
+- Retry/backoff, dead letter queue, idempotency keys, and rate limiting
 
+---
 
-### [Tic-Tac-Toe AI Game](https://github.com/Chukwuemekamusic/tictactoe_AI)
-- Tic-Tac-Toe game with AI using the minimax algorithm.
-- Built with Python and Pygame, featuring a graphical interface.
-- Play against an intelligent computer or another human.
-- AI makes optimal moves for a challenging experience.
+### [Isolated Lending Market Protocol](https://github.com/Chukwuemekamusic/ism_protocol)
+> Solidity · Foundry · TypeScript · Next.js · Base L2
 
+Full-stack DeFi lending protocol with isolated markets to eliminate cross-asset contagion risk.
 
-### [Money Saver App](https://github.com/Chukwuemekamusic/money-saver-app)
+- MEV-resistant Dutch auction liquidation + dual-source oracle (Chainlink + Uniswap V3 TWAP)
+- Kinked interest rate model with WAD math (1e18 precision) and utilization-based dynamic rates
+- ~95% gas reduction per market deployment via EIP-1167 minimal proxy pattern
+- 58+ unit, integration, invariant, and fork tests in Foundry
+- TypeScript liquidation bot with real-time position monitoring; live on Base Sepolia
 
-- Built an app for creating saving plans and goals with weekly payment plans.
-- Utilized React for the frontend and integrated FastAPI for the [backend](https://github.com/Chukwuemekamusic/money-saver-api.git).
-- Integrated Supabase Auth with JWT tokens and Google OAuth.
-- Implemented Redux for state management and tailwind for design.
+---
 
+### [MatchDay Bet Bot — Towns Protocol](https://github.com/Chukwuemekamusic/matchday-bet-bot)
+> Solidity (UUPS) · Foundry · TypeScript · Towns SDK
 
-### [MSc. Project: DiscussU](https://github.com/Chukwuemekamusic/DiscussU-react_frontend)
+On-chain parimutuel betting bot deployed on Base, integrated with the Towns Protocol.
 
-- Developed a student engagement web application using ReactJS and Django.
-- Designed and implemented RESTful APIs with [Django Rest Framework](https://github.com/Chukwuemekamusic/DiscussU).
-- Implemented Zustand for state management and applied best UI/UX principles.
-- This project that allows students view, create, join discussion rooms, follow other students within an institution.
+- Automated match resolution with real-time sync between off-chain APIs and on-chain state
+- Verification and reconciliation logic for failed or delayed transactions
 
+---
 
-### [CLI Airline Booking System](https://github.com/Chukwuemekamusic/XYZ_AIRLINE_BOOKING)
+### [Decentralised Crowdfunding Platform](https://my-crowdfunding.vercel.app)
+> Next.js · TypeScript · Solidity · IPFS · MetaMask
 
-- Developed a command-line simulation of an airline booking system using Python.
-- Utilized Object-Oriented Programming principles for code encapsulation.
+Full-stack dApp for creating and managing crowdfunding campaigns with gas-optimized contracts, IPFS image storage (Pinata), and a responsive frontend with real-time blockchain interaction.
 
-## Skills
+---
 
-- **Languages**: Python, Javascript, Java, C, Solidity, SQL, noSQL
-- **Technologies/Frameworks**: React, Nodejs, Express, Django, MySQL, PostgreSQL, Mongodb, Hardhat, web3.js, ethers.js
-- **Tools**: Docker, GIT, MetaMask
+## 📫 Get in Touch
 
-## Get in Touch
-
-- 📧 Email: joseph.emeka.dev@gmail.com, chukwuemekamusic@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/joseph-anyaegbunam-b1a430253/
-
-Let's connect and collaborate on exciting projects together!
-
+- Email: [joseph.emeka.dev@gmail.com](mailto:joseph.emeka.dev@gmail.com)
+- LinkedIn: [joseph-anyaegbunam](https://www.linkedin.com/in/joseph-anyaegbunam-b1a430253/)
+- Portfolio: [joseph-anyaegbunam.dev](https://joseph-anyaegbunam.dev)
