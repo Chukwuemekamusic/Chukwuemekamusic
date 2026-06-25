@@ -1,38 +1,40 @@
 # Hi, I'm Joseph 👋
 
-I'm a **Python backend engineer** and **blockchain developer** based in Aberdeen, UK — with an MSc (Distinction) in Information Technology and a background in Electrical Engineering.
+**Full-Stack Engineer** building business-focused software with Python, TypeScript, Java and AI-assisted workflows.
 
-I build production-grade backend systems and smart contract protocols. My focus is on async architectures, distributed processing, and DeFi — writing code that's reliable under load, not just working in development.
+MSc Information Technology (Distinction, Best Graduating Student) · Electrical Engineering background.
+
+I design and deliver end-to-end systems — from data models and async pipelines to production UIs — with a focus on three things: solving real business problems, maintaining rigorous engineering standards, and using AI tooling to accelerate delivery without cutting corners.
 
 ---
 
 ## 🛠 What I Work With
 
-**Python & Backend**
-`FastAPI` `Celery` `SQLAlchemy (async)` `PostgreSQL` `Redis` `Docker` `Pydantic` `pytest`
+**AI & Developer Productivity**
+`LLM Application Development` `Agentic Workflows` `AI-Assisted Engineering` `OpenAI APIs` `Claude Vision API` `Workflow Automation`
 
-**Blockchain**
-`Solidity` `Foundry` `DeFi Protocols` `EIP-2535 (Diamond)` `UUPS` `Account Abstraction` `Viem` `Ethers.js`
+**Backend & Infrastructure**
+`Python` `FastAPI` `Celery` `PostgreSQL` `Redis` `Docker` `Kubernetes` `SQLAlchemy (async)` `Nginx` `GitHub Actions`
 
 **Frontend & Full-Stack**
-`React` `Next.js` `TypeScript` `Node.js` `Django`
+`TypeScript` `React` `Next.js` `Node.js` `TailwindCSS`
 
-**Data & AI**
-`pandas` `NumPy` `Matplotlib` `Scikit-learn` `LangChain`
+**Blockchain & Web3**
+`Solidity` `Foundry` `EIP-2535 (Diamond)` `EIP-1167 (Minimal Proxy)` `EVM` `Viem` `Ethers.js`
 
 ---
 
 ## 🚀 Selected Projects
 
-### [ReportFlow — Async Report Generation API](https://github.com/Chukwuemekamusic/reportflow)
+### [ReportFlow — Async ETL & Reporting Pipeline](https://github.com/Chukwuemekamusic/reportflow)
 > Python · FastAPI · Celery · Redis · PostgreSQL · MinIO · WebSocket · Docker
 
-API-first backend service that decouples heavy report generation from the HTTP request lifecycle using an async Celery job queue. Multi-tenant, fully containerised, production-architecture focus.
+Distributed ETL and reporting platform with async task orchestration, object storage, and tenant-isolated job processing.
 
-- Three-queue Celery pipeline (high / default / low priority) with custom base task class and granular progress tracking
-- Real-time WebSocket progress streaming via Redis pub/sub
-- Three report types: Sales Summary PDF, CSV Export, multi-section PDF with Matplotlib charts
-- Retry/backoff, dead letter queue, idempotency keys, and rate limiting
+- Three-queue Celery pipeline (high / default / low priority) with granular real-time progress tracking
+- WebSocket progress streaming via Redis pub/sub
+- Production-grade reliability: exponential backoff retries, idempotency keys, rate limiting, dead letter handling
+- Fully containerised with Docker Compose; CI pipeline via GitHub Actions
 
 ---
 
@@ -42,27 +44,23 @@ API-first backend service that decouples heavy report generation from the HTTP r
 Full-stack DeFi lending protocol with isolated markets to eliminate cross-asset contagion risk.
 
 - MEV-resistant Dutch auction liquidation + dual-source oracle (Chainlink + Uniswap V3 TWAP)
-- Kinked interest rate model with WAD math (1e18 precision) and utilization-based dynamic rates
 - ~95% gas reduction per market deployment via EIP-1167 minimal proxy pattern
-- 58+ unit, integration, invariant, and fork tests in Foundry
+- 58+ unit, integration, invariant, and fork tests — full system coverage before feature implementation
 - TypeScript liquidation bot with real-time position monitoring; live on Base Sepolia
 
 ---
 
-### [MatchDay Bet Bot — Towns Protocol](https://github.com/Chukwuemekamusic/matchday-bet-bot)
-> Solidity (UUPS) · Foundry · TypeScript · Towns SDK
+### [ClothList — AI-Powered Resale Listing Tool](https://github.com/Chukwuemekamusic/cloth_list)
+> Next.js · TypeScript · Claude Vision API
 
-On-chain parimutuel betting bot deployed on Base, integrated with the Towns Protocol.
-
-- Automated match resolution with real-time sync between off-chain APIs and on-chain state
-- Verification and reconciliation logic for failed or delayed transactions
+WhatsApp-first tool for clothing resellers: photograph an item, get a draft listing with title, price (GBP or NGN), and a polished description ready for eBay, Vinted, or Shopify. Built for informal commerce workflows in emerging markets.
 
 ---
 
 ### [Decentralised Crowdfunding Platform](https://my-crowdfunding.vercel.app)
 > Next.js · TypeScript · Solidity · IPFS · MetaMask
 
-Full-stack dApp for creating and managing crowdfunding campaigns with gas-optimized contracts, IPFS image storage (Pinata), and a responsive frontend with real-time blockchain interaction.
+Full-stack dApp for creating and managing crowdfunding campaigns — gas-optimised contracts, IPFS image storage, and real-time blockchain interaction.
 
 ---
 
